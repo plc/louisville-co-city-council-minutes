@@ -1,5 +1,5 @@
 ---
-title: "Louisville City Council Special Meeting - November 10, 2025"
+title: "11/10/25 City Council Special Meeting"
 date: 2025-11-10
 type: city-council-summary
 source_url: https://www.youtube.com/watch?v=3GVp6llDuqo

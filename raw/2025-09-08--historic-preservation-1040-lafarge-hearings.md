@@ -1,11 +1,11 @@
 ---
-title: "Louisville Historic Preservation 1040 Lafarge Hearings - September 8, 2025"
+title: "09/08/25 Historic Preservation Commission Meeting"
 date: 2025-09-08
 source: https://www.youtube.com/watch?v=S2hlQVOsy6E
 type: historic-preservation
 ---
 
-# Historic Preservation 1040 Lafarge Hearings
+# 09/08/25 Historic Preservation Commission Meeting
 **Date:** 2025-09-08
 
 >> Focus: "Commissioners took up demolition review and related preservation questions for 1040 Lafarge Avenue, a property previously found eligible for probable cause and historic assessment work."

@@ -1,11 +1,11 @@
 ---
-title: "Louisville City Council Parks and Trails Long-Range Plan - April 14, 2026"
+title: "04/14/26 City Council Special Meeting"
 date: 2026-04-14
 source: https://www.youtube.com/watch?v=FG1SnWOXWz8
 type: city-council
 ---
 
-# City Council Parks and Trails Long-Range Plan
+# 04/14/26 City Council Special Meeting
 **Date:** 2026-04-14
 
 >> Focus: "Council reviewed the parks, recreation, open space long-range plan and the inaugural citywide trails system plan, focusing on goals, strategies, and public engagement findings."

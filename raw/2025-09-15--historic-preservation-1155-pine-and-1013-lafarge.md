@@ -1,11 +1,11 @@
 ---
-title: "Louisville Historic Preservation Cases at 1155 Pine and 1013 Lafarge - September 15, 2025"
+title: "09/15/25 Historic Preservation Commission Meeting"
 date: 2025-09-15
 source: https://www.youtube.com/watch?v=iyewOY9iaGM
 type: historic-preservation
 ---
 
-# Historic Preservation Cases at 1155 Pine and 1013 Lafarge
+# 09/15/25 Historic Preservation Commission Meeting
 **Date:** 2025-09-15
 
 >> Focus: "The commission reviewed probable cause for 1013 Lafarge Avenue and a public hearing package for 1155 Pine Street, including landmark-related requests tied to the property and caboose."

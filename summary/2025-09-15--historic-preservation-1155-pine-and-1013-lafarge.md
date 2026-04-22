@@ -1,5 +1,5 @@
 ---
-title: "Louisville Historic Preservation - 1155 Pine and 1013 Lafarge - September 15, 2025"
+title: "09/15/25 Historic Preservation Commission Meeting"
 date: 2025-09-15
 type: historic-preservation-summary
 source_url: https://www.youtube.com/watch?v=iyewOY9iaGM

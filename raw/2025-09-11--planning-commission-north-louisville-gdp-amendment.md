@@ -1,11 +1,11 @@
 ---
-title: "Louisville Planning Commission North Louisville GDP Amendment - September 11, 2025"
+title: "09/11/25 Planning Commission Meeting"
 date: 2025-09-11
 source: https://www.youtube.com/watch?v=sPuZ8gGUZlI
 type: planning-commission
 ---
 
-# Planning Commission North Louisville GDP Amendment
+# 09/11/25 Planning Commission Meeting
 **Date:** 2025-09-11
 
 >> Focus: "Planning Commission held a public hearing on a resolution amendment to the North Louisville General Development Plan and discussed related future hearing steps."

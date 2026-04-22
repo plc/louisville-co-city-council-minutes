@@ -1,5 +1,5 @@
 ---
-title: "Louisville City Council Regular Meeting - September 16, 2025"
+title: "09/16/25 City Council Meeting"
 date: 2025-09-16
 type: city-council-summary
 source_url: https://www.youtube.com/watch?v=rrKkVjrs_qo

@@ -1,5 +1,5 @@
 ---
-title: "Louisville City Council - Parks and Trails Long-Range Plan - April 14, 2026"
+title: "04/14/26 City Council Special Meeting"
 date: 2026-04-14
 type: city-council-summary
 source_url: https://www.youtube.com/watch?v=FG1SnWOXWz8

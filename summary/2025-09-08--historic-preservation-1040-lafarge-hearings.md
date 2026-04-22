@@ -1,5 +1,5 @@
 ---
-title: "Louisville Historic Preservation - 1040 Lafarge Hearings - September 8, 2025"
+title: "09/08/25 Historic Preservation Commission Meeting"
 date: 2025-09-08
 type: historic-preservation-summary
 source_url: https://www.youtube.com/watch?v=S2hlQVOsy6E

@@ -1,5 +1,5 @@
 ---
-title: "Louisville Planning Commission - GDP Amendments - September 25, 2025"
+title: "09/25/25 Planning Commission Meeting"
 date: 2025-09-25
 type: planning-commission-summary
 source_url: https://www.youtube.com/watch?v=FO_wD7Pegfs

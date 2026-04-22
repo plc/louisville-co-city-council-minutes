@@ -1,5 +1,5 @@
 ---
-title: "Louisville City Council Ordinance 1901 - September 4, 2025"
+title: "09/04/25 City Council Special Meeting"
 date: 2025-09-04
 type: city-council-summary
 source_url: https://www.youtube.com/watch?v=6IAfh141YG4

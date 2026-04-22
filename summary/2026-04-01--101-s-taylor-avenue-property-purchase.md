@@ -1,5 +1,5 @@
 ---
-title: "101 S. Taylor Avenue Property Purchase — City Walkthrough Video"
+title: "101 S. Taylor Avenue Video Walkthrough"
 source: "https://www.youtube.com/watch?v=_MrLckt6TJU"
 date: 2026-04-01
 channel: "City of Louisville, CO"

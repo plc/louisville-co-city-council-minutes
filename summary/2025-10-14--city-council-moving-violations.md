@@ -1,5 +1,5 @@
 ---
-title: "Louisville City Council Moving Violations - October 14, 2025"
+title: "10/14/25 City Council Special Meeting"
 date: 2025-10-14
 type: city-council-summary
 source_url: https://www.youtube.com/watch?v=RuLxF84QuJE
