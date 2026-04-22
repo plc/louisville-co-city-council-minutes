@@ -4,7 +4,7 @@ Mirror of Louisville YouTube transcript artifacts from the local OpenClaw knowle
 
 ## Structure
 
-- `raw/` — full transcript markdown
+- `raw/` — full transcript markdown named `YYYY-MM-DD--title.md`
 - `summary/` — paired summary markdown with the same filename
 
-Each summary should include a reference YouTube link in frontmatter via `source_url`.
+Filenames are date-first in the mirror repo for easier chronological sorting. Each summary should include a reference YouTube link in frontmatter via `source_url`.
