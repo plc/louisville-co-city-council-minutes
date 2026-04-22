@@ -1,6 +1,4 @@
-# Louisville YouTube Transcripts
-
-Mirror of Louisville YouTube transcript artifacts from the local OpenClaw knowledge base.
+# Louisville City Council YouTube Transcripts
 
 ## Structure
 
